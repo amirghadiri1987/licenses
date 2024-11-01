@@ -1,0 +1,10 @@
+{
+    "client_1": {
+        "key_1": "20/*I7FM1xxm/UVA+lbPoNZ7MiRf97I3ivivFEOXbxAPgbE=@*26",
+        "key_2": "06A5VdyjplLS3s4ZlsoIY3rXxDwJ6w1Z1tmCnzCfCpKoolM=_%29"
+    },
+    "client_2": {
+        "key_1": "encrypted_key_1",
+        "key_2": "encrypted_key_2"
+    }
+}
